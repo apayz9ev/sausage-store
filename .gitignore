@@ -1,0 +1,22 @@
+# Папки IDE (у каждого разработчика свои настройки — в репо не нужны)
+.idea/
+.vscode/
+
+# Java: скомпилированные файлы (target/ = результат сборки, не исходники)
+target/
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+build/
+
+# Node.js: зависимости (node_modules/ весит гигабайты — не нужно в git)
+node_modules/
+dist/
+npm-debug.log*
+yarn-error.log*
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
