@@ -6,4 +6,3 @@ test4
 test5
 test revert1
 test revert1
-test revert2
